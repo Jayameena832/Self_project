@@ -45,8 +45,12 @@ The dataset is about the advertising cost incurred by the business on various ad
 ## Summary
 This is how using various machine learning models we can predict stock prices and future sales.
 
+
+
+
+
 Contribution:- 
-Jaya Meena
-Antariksh Choudhary
+1. Jaya Meena
+2. Antariksh Choudhary
 
 
