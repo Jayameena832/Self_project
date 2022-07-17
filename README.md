@@ -1,1 +1,1 @@
-# Self_project
+# Stocks and sales analysis
