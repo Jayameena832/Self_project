@@ -25,7 +25,7 @@ Dataset for this project is taken  from the California census. The data includes
 
 ### Modelling
 1. First we've done modification of dataset like finding it's info using which deleted NULL values.
-2. We described the dataset histogram  plot for each numerical attribute, histogram of median income, visualized the data in terms of longitude and latitude using scatter plot, and also plotted scatter matrix to find correlations between different attributes.
+2. We described the dataset using histogram  plot for each numerical attribute, histogram of median income, visualized the data in terms of longitude and latitude using scatter plot, and also plotted scatter matrix to find correlations between different attributes.
 3. We fit our dataset into LinearRegression model, DecisionTreeRegressor model and RandomForestRegressor model and compared the accuracy score for all the models to get the best fit model for our dataset.
 4. The best model we found is DecisionTreeRegressor model.
 
